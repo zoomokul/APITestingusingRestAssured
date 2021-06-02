@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="sdet.Get01">
+      <class name="devqa.Post01_Request">
         <methods>
-          <include name="getAllEmployee"/>
+          <include name="postRequest"/>
         </methods>
-      </class> <!-- sdet.Get01 -->
+      </class> <!-- devqa.Post01_Request -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

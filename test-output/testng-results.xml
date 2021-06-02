@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-29T17:49:58 EET" name="Default suite" finished-at="2021-05-29T17:50:04 EET" duration-ms="5746">
+  <suite started-at="2021-06-01T16:10:11 TRT" name="Default suite" finished-at="2021-06-01T16:10:22 TRT" duration-ms="11318">
     <groups>
     </groups>
-    <test started-at="2021-05-29T17:49:58 EET" name="Default test" finished-at="2021-05-29T17:50:04 EET" duration-ms="5746">
-      <class name="sdet.Get01">
-        <test-method signature="getAllEmployee()[pri:0, instance:sdet.Get01@770d3326]" started-at="2021-05-29T17:49:58 EET" name="getAllEmployee" finished-at="2021-05-29T17:50:04 EET" duration-ms="5672" status="PASS">
+    <test started-at="2021-06-01T16:10:11 TRT" name="Default test" finished-at="2021-06-01T16:10:22 TRT" duration-ms="11318">
+      <class name="devqa.Post01_Request">
+        <test-method signature="postRequest()[pri:0, instance:devqa.Post01_Request@48aaecc3]" started-at="2021-06-01T16:10:11 TRT" name="postRequest" finished-at="2021-06-01T16:10:22 TRT" duration-ms="11273" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getAllEmployee -->
-      </class> <!-- sdet.Get01 -->
+        </test-method> <!-- postRequest -->
+      </class> <!-- devqa.Post01_Request -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
